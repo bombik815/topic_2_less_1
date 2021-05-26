@@ -9,10 +9,9 @@ NeuroStartUp — динамически развивающийся старта�
 ![NeuroStartUp logo](https://github.com/bombik815/NeuroStartUp/blob/main/NeuroStartUp.png)
 
 JavaScript:
-
 <script src="https://localhost/neuro.sdk.min.js"></script>
-Java (Maven):
 
+Java (Maven):
 <dependency>
   <groupId>neuro</groupId>
   <artifactId>sdk</artifactId>
