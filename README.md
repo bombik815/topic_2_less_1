@@ -6,7 +6,6 @@ NeuroStartUp — динамически развивающийся старта�
 * Высокая скорость поиска
 * Низкая цена
 
-![NeuroStartUp logo](https://github.com/bombik815/NeuroStartUp/blob/main/NeuroStartUp.png)
 
 JavaScript:
 <script src="https://localhost/neuro.sdk.min.js"></script>
@@ -21,3 +20,7 @@ iOS (добавьте код в ваш Podfile):
 
 platform :ios, '8.0'
 pod "neuro-ios-sdk"
+
+
+![NeuroStartUp logo](https://github.com/bombik815/NeuroStartUp/blob/main/NeuroStartUp.png)
+
